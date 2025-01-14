@@ -1,0 +1,1 @@
+{"admin": {"senha": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9", "saldo": 10000.0, "is_admin": true, "transacoes": []}, "user1": {"senha": "b6602f58690ca41488e97cd28153671356747c951c55541b6c8d8b8493eb7143", "saldo": 100500.0, "is_admin": false, "transacoes": ["Dep\u00f3sito: +R$ 100000.00"]}}
